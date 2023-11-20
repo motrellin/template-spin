@@ -2,7 +2,8 @@
 
 # Configuration
 
-NAME := your_file_name # Name of your .pml-file, without .pml-postfix
+# Name of your .pml-file, without .pml-postfix
+NAME :=
 CC := gcc
 CFLAGS :=
 
